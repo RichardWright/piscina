@@ -40,13 +40,13 @@
     "abort-controller": "^3.0.0",
     "concat-stream": "^2.0.0",
     "gen-esm-wrapper": "^1.1.1",
+    "snappy": "^7.2.2",
     "snazzy": "^9.0.0",
     "standardx": "^7.0.0",
     "tap": "^16.3.7",
     "ts-node": "^10.9.2",
     "typescript": "5.3.3"
   },
-  "dependencies": {},
   "optionalDependencies": {
     "nice-napi": "^1.0.2"
   },
